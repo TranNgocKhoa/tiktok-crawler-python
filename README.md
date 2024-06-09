@@ -4,7 +4,7 @@ This Python script utilizes the Apify API to fetch and print descriptions of tre
 
 ## Setup
 
-Before running the script, you need to obtain your APIFY key.
+Before running the script, you need to obtain your APIFY key and rent the required actor here: [https://apify.com/novi/fast-tiktok-api](https://apify.com/novi/fast-tiktok-api)
 
 ### Obtaining APIFY Key
 
